@@ -1,0 +1,15 @@
+/Users/victoria/Desktop/first/myproject/myproject/bin/Debug/net7.0/myproject
+/Users/victoria/Desktop/first/myproject/myproject/bin/Debug/net7.0/myproject.deps.json
+/Users/victoria/Desktop/first/myproject/myproject/bin/Debug/net7.0/myproject.runtimeconfig.json
+/Users/victoria/Desktop/first/myproject/myproject/bin/Debug/net7.0/myproject.dll
+/Users/victoria/Desktop/first/myproject/myproject/bin/Debug/net7.0/myproject.pdb
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.csproj.AssemblyReference.cache
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.AssemblyInfoInputs.cache
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.AssemblyInfo.cs
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.csproj.CoreCompileInputs.cache
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.dll
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/refint/myproject.dll
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.pdb
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/myproject.genruntimeconfig.cache
+/Users/victoria/Desktop/first/myproject/myproject/obj/Debug/net7.0/ref/myproject.dll
